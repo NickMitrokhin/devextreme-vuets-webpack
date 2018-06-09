@@ -5,7 +5,7 @@ import Vue from "vue";
 import AppComponent from "./App.vue";
 
 new Vue({
-  el: "#app",
+  el: "#viewport",
   template: "<app-component></app-component>",
   components: {
     AppComponent
